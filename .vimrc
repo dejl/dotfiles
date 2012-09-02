@@ -2,7 +2,12 @@ set t_Co=256
 set number
 set numberwidth=4
 
-set smartindent
+
+set foldmethod=indent
+set foldlevel=99
+
+"set smartindent
+filetype plugin indent on
 set autoindent
 set tabstop=4
 set shiftwidth=4
