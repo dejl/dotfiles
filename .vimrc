@@ -15,11 +15,11 @@ set shiftwidth=4
 "set highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
 colorscheme jellybeans
 
-function Upload()
-	!p %
+function Paste()
+	!pastie %
 endfunction
 
-:command Upload call Upload()
+:command Paste call Paste()
 
 :au FocusLost * silent! :wa
 
