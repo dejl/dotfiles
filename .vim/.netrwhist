@@ -1,9 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users'
-let g:netrw_dirhist_2='/'
-let g:netrw_dirhist_3='/Users/daniel/geminabox/data'
-let g:netrw_dirhist_4='/'
-let g:netrw_dirhist_5='/Users/daniel/.vim/c-support/templates'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/daniel/toolkit'
+let g:netrw_dirhist_2='/Users/daniel/Desktop/old/test/src'
+let g:netrw_dirhist_3='/Users/daniel/toolkit/Sublime Text 2'
+let g:netrw_dirhist_4='/Users/daniel/toolkit/Sublime Text 2/Backup'
+let g:netrw_dirhist_5='sftp://daniel@server7.hostingforoz.com/'
 let g:netrw_dirhist_6='/Users/daniel'
-let g:netrw_dirhist_7='/Users/daniel/Dropbox'
+let g:netrw_dirhist_7='/Users/daniel/Desktop/test/com'
+let g:netrw_dirhist_8='/Users/daniel/toolkit/grails/conf'
